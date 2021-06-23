@@ -1,0 +1,14 @@
+body{
+    background-color: darkcyan;
+}
+
+h2 {
+    border: 5px;
+    font-size: 40;
+    background-color: red;
+}
+
+.link, .link2 {
+    background-color: chartreuse;
+    font-weight: 400;
+}
